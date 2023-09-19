@@ -3,6 +3,16 @@ Download books from Perlego.com in PDF format.
 
 ## Installation
 
+Quick installation guide for **Windows** users:
+
+Grab the download for the `installer.exe`  `file by pressing the download button located at the top right to download the exe & execute it
+
+The command prompt that appears in the background is for diagnostic purposes and you shouldn't worry much about it (unless if you encounter an error)
+
+The exe file was complied using `PyInstaller` and you can view the source code over at the installer folder
+
+It is still strongly recommeneded to download Python 3.10.11 (at a maximum) and to follow the manual instructions after this
+
 Install Python 3 and run:
 
   >$ pip3 install -r requirements.txt
